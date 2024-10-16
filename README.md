@@ -19,4 +19,7 @@ To ensure you have installed mongodb and mongo shell
 - This creates a collection with a document with data
 # To view the collection
 - "type" show collections
+
+
+__________________________
 ![image](https://github.com/user-attachments/assets/1861975f-3d01-4a8f-8c01-809532f58cc9)
